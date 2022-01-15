@@ -10,3 +10,7 @@ if you are interested or want to test the software please pm @
 lee.sheedy123@gmail.com
 
 proof = @depenx on tiktok
+
+
+ this software is made by lee sheedy
+ it is a api that edits the hex value of the video to make it appear shorter (allowing you to upload longer videos)
